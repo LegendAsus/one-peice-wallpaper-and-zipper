@@ -1,0 +1,134 @@
+{
+  "trending_wallpapers": [
+    "one_piece/1.jpg",
+    "one_piece/2.jpg",
+    "one_piece/3.jpg",
+    "one_piece/4.jpg",
+    "one_piece/5.jpg"
+  ],
+  "live_wallpapers": [
+    {
+      "video": "live_wallpapers/1.mp4",
+      "thumbnail": "live_wallpapers/1.jpg"
+    },
+    {
+      "video": "live_wallpapers/2.mp4",
+      "thumbnail": "live_wallpapers/2.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "goku",
+      "title": "Goku",
+      "cover": "categories/goku/1.jpg",
+      "color": "#FF9800",
+      "wallpapers": [
+        "categories/goku/1.jpg",
+        "categories/goku/2.jpg",
+        "categories/goku/3.jpg",
+        "categories/goku/4.jpg",
+        "categories/goku/5.jpg",
+        "categories/goku/6.jpg",
+        "categories/goku/7.jpg",
+        "categories/goku/8.jpg",
+        "categories/goku/9.jpg",
+        "categories/goku/10.jpg",
+        "categories/goku/11.jpg",
+        "categories/goku/12.jpg",
+        "categories/goku/13.jpg",
+        "categories/goku/14.jpg",
+        "categories/goku/15.jpg",
+        "categories/goku/16.jpg",
+        "categories/goku/17.jpg",
+        "categories/goku/18.jpg",
+        "categories/goku/19.jpg",
+        "categories/goku/20.jpg",
+        "categories/goku/21.jpg",
+        "categories/goku/22.jpg",
+        "categories/goku/23.jpg",
+        "categories/goku/24.jpg",
+        "categories/goku/25.jpg",
+        "categories/goku/26.jpg",
+        "categories/goku/27.jpg",
+        "categories/goku/28.jpg",
+        "categories/goku/29.png",
+        "categories/goku/30.jpg",
+        "categories/goku/31.jpg",
+        "categories/goku/32.jpg"
+      ]
+    },
+    {
+      "id": "naruto",
+      "title": "Naruto Shippuden",
+      "cover": "categories/2.jpg",
+      "color": "#FF9800",
+      "wallpapers": [
+        "categories/naruto/1.jpg",
+        "categories/naruto/2.jpg",
+        "categories/naruto/3.jpg",
+        "categories/naruto/4.jpg",
+        "categories/naruto/5.jpg",
+        "categories/naruto/6.jpg",
+        "categories/naruto/7.jpg",
+        "categories/naruto/8.jpg"
+      ]
+    },
+    {
+      "id": "naruto_baryon",
+      "title": "Naruto Baryon Mode",
+      "cover": "categories/3.jpg",
+      "color": "#FF5722",
+      "wallpapers": [
+        "categories/naruto_baryon/1.jpg",
+        "categories/naruto_baryon/2.jpg",
+        "categories/naruto_baryon/3.jpg",
+        "categories/naruto_baryon/4.jpg",
+        "categories/naruto_baryon/5.jpg",
+        "categories/naruto_baryon/6.jpg"
+      ]
+    },
+    {
+      "id": "jujutsu_kaisen",
+      "title": "Jujutsu Kaisen",
+      "cover": "categories/4.jpg",
+      "color": "#9C27B0",
+      "wallpapers": [
+        "home/25.jpg",
+        "home/26.jpg",
+        "home/27.jpg",
+        "home/28.jpg"
+      ]
+    },
+    {
+      "id": "demon_slayer",
+      "title": "Demon Slayer",
+      "cover": "categories/5.jpg",
+      "color": "#E91E63",
+      "wallpapers": [
+        "home/29.png",
+        "home/30.jpg",
+        "home/31.jpg",
+        "home/32.jpg"
+      ]
+    }
+  ],
+  "keyboards": [
+    "keyboards/1.jpg",
+    "keyboards/2.jpg",
+    "keyboards/3.jpg",
+    "keyboards/4.jpg",
+    "keyboards/5.jpg",
+    "keyboards/6.jpg",
+    "keyboards/7.jpg",
+    "keyboards/8.jpg",
+    "keyboards/9.jpg",
+    "keyboards/10.jpg",
+    "keyboards/11.jpg",
+    "keyboards/12.jpg",
+    "keyboards/13.jpg",
+    "keyboards/14.jpg",
+    "keyboards/15.jpg",
+    "keyboards/16.jpg",
+    "keyboards/17.jpg"
+  ]
+}
