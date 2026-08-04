@@ -7,6 +7,7 @@
     "one_piece/21.jpg",
     "one_piece/20.jpg",
     "one_piece/19.jpg",
+    "one_piece/18.jpg",
     "one_piece/17.jpg",
     "one_piece/16.jpg",
     "one_piece/15.jpg",
@@ -98,7 +99,7 @@
         "categories/goku/26.jpg",
         "categories/goku/27.jpg",
         "categories/goku/28.jpg",
-        "categories/goku/29.png",
+        "categories/goku/29.jpg",
         "categories/goku/30.jpg",
         "categories/goku/31.jpg",
         "categories/goku/32.jpg"
@@ -117,7 +118,11 @@
         "categories/naruto/5.jpg",
         "categories/naruto/6.jpg",
         "categories/naruto/7.jpg",
-        "categories/naruto/8.jpg"
+        "categories/naruto/8.jpg",
+        "categories/naruto/9.jpg",
+        "categories/naruto/10.jpg",
+        "categories/naruto/11.jpg",
+        "categories/naruto/12.jpg"
       ]
     },
     {
@@ -126,12 +131,12 @@
       "cover": "categories/3.jpg",
       "color": "#FF5722",
       "wallpapers": [
-        "categories/naruto_baryon/1.jpg",
-        "categories/naruto_baryon/2.jpg",
-        "categories/naruto_baryon/3.jpg",
-        "categories/naruto_baryon/4.jpg",
-        "categories/naruto_baryon/5.jpg",
-        "categories/naruto_baryon/6.jpg"
+        "categories/naruto_baryon_mode/1.jpg",
+        "categories/naruto_baryon_mode/2.jpg",
+        "categories/naruto_baryon_mode/3.jpg",
+        "categories/naruto_baryon_mode/4.jpg",
+        "categories/naruto_baryon_mode/5.jpg",
+        "categories/naruto_baryon_mode/6.jpg"
       ]
     },
     {
@@ -140,10 +145,12 @@
       "cover": "categories/4.jpg",
       "color": "#9C27B0",
       "wallpapers": [
-        "home/25.jpg",
-        "home/26.jpg",
-        "home/27.jpg",
-        "home/28.jpg"
+        "categories/jujutsu_kaisen/1.jpg",
+        "categories/jujutsu_kaisen/2.jpg",
+        "categories/jujutsu_kaisen/3.jpg",
+        "categories/jujutsu_kaisen/4.jpg",
+        "categories/jujutsu_kaisen/5.jpg",
+        "categories/jujutsu_kaisen/6.jpg"
       ]
     },
     {
@@ -152,10 +159,12 @@
       "cover": "categories/5.jpg",
       "color": "#E91E63",
       "wallpapers": [
-        "home/29.png",
-        "home/30.jpg",
-        "home/31.jpg",
-        "home/32.jpg"
+        "categories/demon_slayer/1.jpg",
+        "categories/demon_slayer/2.jpg",
+        "categories/demon_slayer/3.jpg",
+        "categories/demon_slayer/4.jpg",
+        "categories/demon_slayer/5.jpg",
+        "categories/demon_slayer/6.jpg"
       ]
     }
   ],
